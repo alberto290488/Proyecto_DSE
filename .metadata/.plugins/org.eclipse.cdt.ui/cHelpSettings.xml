@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cHelpSettings>
+<project name="Proyecto_13092019">
+<provider id="org.eclipse.cdt.ui.provider1"/>
+<provider id="org.eclipse.linuxtools.cdt.libhover.provider">
+<book enabled="false" title="Renesas.Synergy.1.4.0.pack"/>
+</provider>
+</project>
+</cHelpSettings>
